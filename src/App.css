@@ -1,5 +1,8 @@
 .App {
   text-align: center;
+  background-color: rgb(219, 151, 24);
+  height: 800px;
+  
 }
 
 .App-logo {
@@ -35,4 +38,11 @@
   to {
     transform: rotate(360deg);
   }
+}
+.yapildi {
+  text-decoration: line-through;
+  text-decoration-color: black;
+}
+.ekleme_formu{
+  margin-top: 75px;
 }
